@@ -1,0 +1,13 @@
+.col-sm-6 p,
+.col-sm-6 h2,
+.col-sm-6 h6 {
+    color: white; /* Cambia el color del texto a blanco */
+}
+
+footer{
+    background-color:rgba(5, 142, 32, 0.5);
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+    color: aliceblue;
+}
